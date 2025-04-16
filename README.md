@@ -16,7 +16,7 @@ A landing page for **Writings for Developers**, a curated collection of articles
 
 Check out the live version of the landing page:
 
-[Live Demo on GitHub Pages](https://sanjaypotdar.github.io/Writings-for-Developers/)
+[Live Demo](https://sanjaypotdar.github.io/Writings-for-Developers/)
 
 ## Technologies Used
 
